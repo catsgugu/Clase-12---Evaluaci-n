@@ -1,0 +1,504 @@
+<svg viewBox="0 0 880 580" xmlns="http://www.w3.org/2000/svg">
+    <rect width="880" height="580" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g transform="translate(20,20)" id="viz">
+        <g id="nodes">
+            <g transform="translate(421,271)">
+                <path id="p_962" d="M0,270A270,270,0,1,1,0,-270A270,270,0,1,1,0,270Z" fill="none" stroke="#ccc" />
+            </g>
+            <g transform="translate(292.5123484268353,231.80702207697703)" id="Europa">
+                <path
+                    id="p_651.3494582853018"
+                    d="M0,127.03A127.03,127.03,0,1,1,0,-127.03A127.03,127.03,0,1,1,0,127.03Z"
+                    fill="none"
+                    stroke="#ccc"
+                />
+            </g>
+            <g transform="translate(547.0873160139844,231.80702207697703)" id="América">
+                <path
+                    id="p_904.5390889866476"
+                    d="M0,125.645A125.645,125.645,0,1,1,0,-125.645A125.645,125.645,0,1,1,0,125.645Z"
+                    fill="none"
+                    stroke="#ccc"
+                />
+            </g>
+            <g transform="translate(421.08608545110945,430.97043167079596)" id="Asia">
+                <path
+                    id="p_960.1859333784047"
+                    d="M0,108.129A108.129,108.129,0,1,1,0,-108.129A108.129,108.129,0,1,1,0,108.129Z"
+                    fill="none"
+                    stroke="#ccc"
+                />
+            </g>
+            <g transform="translate(420.89502019718736,75.91866911049289)" id="Oceanía">
+                <path
+                    id="p_569.8322012616267"
+                    d="M0,73.019A73.019,73.019,0,1,1,0,-73.019A73.019,73.019,0,1,1,0,73.019Z"
+                    fill="none"
+                    stroke="#ccc"
+                />
+            </g>
+            <g transform="translate(253.46290331744427,235.49325481955316)" id="Reino Unido">
+                <path
+                    id="p_559.124476725984"
+                    d="M0,70.168A70.168,70.168,0,1,1,0,-70.168A70.168,70.168,0,1,1,0,70.168Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(360.6155101108973,235.49325481955316)" id="Alemania">
+                <path
+                    id="p_631.1929242249437"
+                    d="M0,35.084A35.084,35.084,0,1,1,0,-35.084A35.084,35.084,0,1,1,0,35.084Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(336.3796969079484,303.36435679456224)" id="Francia">
+                <path
+                    id="p_674.8282129970039"
+                    d="M0,35.084A35.084,35.084,0,1,1,0,-35.084A35.084,35.084,0,1,1,0,35.084Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(334.84068541082,173.2508728624251)" id="Suecia">
+                <path
+                    id="p_538.4753314926962"
+                    d="M0,30.384A30.384,30.384,0,1,1,0,-30.384A30.384,30.384,0,1,1,0,30.384Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(283.3690375039794,137.50304781828737)" id="Suiza">
+                <path
+                    id="p_451.2558585417179"
+                    d="M0,30.384A30.384,30.384,0,1,1,0,-30.384A30.384,30.384,0,1,1,0,30.384Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(280.0035295386597,328.6634704843237)" id="Países Bajos">
+                <path
+                    id="p_633.4752469723485"
+                    d="M0,24.808A24.808,24.808,0,1,1,0,-24.808A24.808,24.808,0,1,1,0,24.808Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(383.0603058625485,185.80064033040605)" id="Bélgica">
+                <path
+                    id="p_586.4030258402012"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(387.0368300183693,283.1906200030447)" id="Dinamarca">
+                <path
+                    id="p_687.7695296686607"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(234.63619076729285,147.88274477666525)" id="Irlanda">
+                <path
+                    id="p_400.0610151912047"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(236.0673326129131,323.39911750961863)" id="Italia">
+                <path
+                    id="p_577.0085297697784"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#f5a623"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(511.05309226450447,231.80702207697703)" id="Estados Unidos">
+                <path
+                    id="p_830.5705125777146"
+                    d="M0,87.71A87.71,87.71,0,1,1,0,-87.71A87.71,87.71,0,1,1,0,87.71Z"
+                    fill="#1f77b4"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(635.7477787052042,231.80702207697703)" id="Canadá">
+                <path
+                    id="p_902.6389600766745"
+                    d="M0,35.084A35.084,35.084,0,1,1,0,-35.084A35.084,35.084,0,1,1,0,35.084Z"
+                    fill="#1f77b4"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(607.5179933151087,278.45682387644337)" id="Argentina">
+                <path
+                    id="p_903.5168968387987"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#1f77b4"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(385.8537866613562,435.6393354527033)" id="China">
+                <path
+                    id="p_864.4622662770756"
+                    d="M0,42.969A42.969,42.969,0,1,1,0,-42.969A42.969,42.969,0,1,1,0,42.969Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(469.9483422923046,435.6393354527033)" id="Hong Kong">
+                <path
+                    id="p_944.8129603029668"
+                    d="M0,39.225A39.225,39.225,0,1,1,0,-39.225A39.225,39.225,0,1,1,0,39.225Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(431.37722691779896,501.36731834096565)" id="Corea del Sur">
+                <path
+                    id="p_967.8287045532579"
+                    d="M0,35.084A35.084,35.084,0,1,1,0,-35.084A35.084,35.084,0,1,1,0,35.084Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(431.37722691779896,369.91135256444085)" id="Japón">
+                <path
+                    id="p_836.3727387767331"
+                    d="M0,35.084A35.084,35.084,0,1,1,0,-35.084A35.084,35.084,0,1,1,0,35.084Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(369.61809756464527,367.87976641614154)" id="Singapur">
+                <path
+                    id="p_762.306110930152"
+                    d="M0,24.808A24.808,24.808,0,1,1,0,-24.808A24.808,24.808,0,1,1,0,24.808Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(376.9940247981033,497.418632697785)" id="Arabia Saudita">
+                <path
+                    id="p_891.9547371431348"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(485.14514173467603,378.9742509609465)" id="Malasia">
+                <path
+                    id="p_881.6614723428692"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(485.14514173467603,492.30441994446)" id="Taiwán">
+                <path
+                    id="p_994.9916413263826"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#d0021b"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(402.40287609495414,75.91866911049289)" id="Australia">
+                <path
+                    id="p_530.9477841471869"
+                    d="M0,52.626A52.626,52.626,0,1,1,0,-52.626A52.626,52.626,0,1,1,0,52.626Z"
+                    fill="#7ed321"
+                    stroke="none"
+                />
+            </g>
+            <g transform="translate(474.4713235939139,75.91866911049289)" id="Nueva Zelanda">
+                <path
+                    id="p_567.9320723516533"
+                    d="M0,17.542A17.542,17.542,0,1,1,0,-17.542A17.542,17.542,0,1,1,0,17.542Z"
+                    fill="#7ed321"
+                    stroke="none"
+                />
+            </g>
+        </g>
+        <g id="labels">
+            <g transform="translate(253.46290331744427,235.49325481955316)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Reino Unido
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(360.6155101108973,235.49325481955316)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Alemania
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(336.3796969079484,303.36435679456224)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Francia
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(334.84068541082,173.2508728624251)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Suecia
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(283.3690375039794,137.50304781828737)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Suiza
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(280.0035295386597,328.6634704843237)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Países Bajos
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(383.0603058625485,185.80064033040605)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Bélgica
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(387.0368300183693,283.1906200030447)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Dinamarca
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(234.63619076729285,147.88274477666525)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Irlanda
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(236.0673326129131,323.39911750961863)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Italia
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(511.05309226450447,231.80702207697703)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Estados Unidos
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(635.7477787052042,231.80702207697703)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Canadá
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(607.5179933151087,278.45682387644337)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Argentina
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(385.8537866613562,435.6393354527033)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        China
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(469.9483422923046,435.6393354527033)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Hong Kong
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(431.37722691779896,501.36731834096565)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Corea del Sur
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(431.37722691779896,369.91135256444085)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Japón
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(369.61809756464527,367.87976641614154)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Singapur
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(376.9940247981033,497.418632697785)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Arabia Saudita
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(485.14514173467603,378.9742509609465)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Malasia
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(485.14514173467603,492.30441994446)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Taiwán
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(402.40287609495414,75.91866911049289)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Australia
+                    </tspan>
+                </text>
+            </g>
+            <g transform="translate(474.4713235939139,75.91866911049289)">
+                <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.5)">
+                    <tspan
+                        x="0"
+                        y="0"
+                        dy="0"
+                        style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal"
+                    >
+                        Nueva Zelanda
+                    </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
